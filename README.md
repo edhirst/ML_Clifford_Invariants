@@ -20,12 +20,16 @@ The `PCA.py` script performs the principal component analysis (PCA) on the invar
 ``` 
 @article{Chen:2023whk,
     author = "Chen, Siqi and Dechant, Pierre-Philippe and He, Yang-Hui and Heyes, Elli and Hirst, Edward and Riabchenko, Dmitrii",
-    title = "{Machine Learning Clifford invariants of ADE Coxeter elements}",
+    title = "{Machine Learning Clifford Invariants of ADE Coxeter Elements}",
     eprint = "2310.00041",
     archivePrefix = "arXiv",
     primaryClass = "cs.LG",
     reportNumber = "QMUL-PH-23-15",
-    month = "9",
-    year = "2023"
+    doi = "10.1007/s00006-024-01325-y",
+    journal = "Adv. Appl. Clifford Algebras",
+    volume = "34",
+    number = "3",
+    pages = "20",
+    year = "2024"
 }
 ```
